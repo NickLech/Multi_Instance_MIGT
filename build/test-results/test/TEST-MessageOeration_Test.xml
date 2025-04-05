@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MessageOeration_Test" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-04-05T14:14:58" hostname="LECHTHALER" time="0.023">
+  <properties/>
+  <testcase name="test_save_body_regex()" classname="MessageOeration_Test" time="0.01"/>
+  <testcase name="test_save_url_param_no_decode()" classname="MessageOeration_Test" time="0.002"/>
+  <testcase name="test_save_head_param()" classname="MessageOeration_Test" time="0.001"/>
+  <testcase name="test_save_head_regex()" classname="MessageOeration_Test" time="0.0"/>
+  <testcase name="test_save_url_param()" classname="MessageOeration_Test" time="0.001"/>
+  <testcase name="test_save_url_regex()" classname="MessageOeration_Test" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

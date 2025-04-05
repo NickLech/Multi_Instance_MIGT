@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JWT_Test" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-04-05T14:14:57" hostname="LECHTHALER" time="0.7">
+  <properties/>
+  <testcase name="test_jwt_with_string_escaped()" classname="JWT_Test" time="0.008"/>
+  <testcase name="Testing default values" classname="JWT_Test" time="0.001"/>
+  <testcase name="Testing jwt decode and encode" classname="JWT_Test" time="0.001"/>
+  <testcase name="Testing jwt signing and verify" classname="JWT_Test" time="0.593"/>
+  <testcase name="test_check_key()" classname="JWT_Test" time="0.065"/>
+  <testcase name="Testing jwt decode and encode" classname="JWT_Test" time="0.001"/>
+  <testcase name="Testing jwt decode and encode" classname="JWT_Test" time="0.001"/>
+  <testcase name="Testing jwt decode and encode" classname="JWT_Test" time="0.022"/>
+  <system-out><![CDATA[eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAtMjU2In0.bvuDJZIyTfDlH1SQJUTOh75lJIY0RTdmYZ7bWbTlaICzGkotmtvOu14cYLYbDUAtx5svRIU1NSQgTJL8hgKVTDssgldlE9jnH-6QtatG8QgC99Bhjc4ox8-OgrLfsbqrK2tdL8e7WSGuY0eYBliTcF2DGAvjYV21BBq5q7Qclv742oNEkKAkwM2hApYb6OoYDLR05NUR9nyAkyAB4hbltssWwRttQkcI7-VzOWbMaEmv6M2AfAKC262Bno6zI9vCwqfy5aagVU5n1Tou5XvoXYN-FXDmCIhqUyxtTpna4-xcu_qKfI02Z_wXJ5jxKGVsQECBbsJH7Ds3qtPJkSGz5g.9qyuCV58vAyi-eJa.uEDhqvePP5h95OVETqO2leOwsHCHR-sMPU1nBkEWBYNyws4njxhFVCtE1zD42goSjk-Sg524WEHlYc9Xy4TYJHf01eGWx3k8cLNf3jCgfMoKtb19oaMw8nqUeuUPMnL2p89hVt7BYJaTQ05V0g-aGPAGnsFKVEYdQ8gRYLfFadA0pUIYLZ8DQKti9YXrv_RBF0VSMPxNFAOI_w79ipyJxYL9iQMcE8Gakq2kKCetvVAfXd3cMAa6A0Pe-bsLlpG_VeOTMtEJNhAXM-Dv3vtSq4ylXPOc-iwKj7C1TVjBqu6K9uzy0MCN56lqrHj5tuBSRJ-5lx1pz5M1JHrxvLKquVjJuDFriWdOkhEHv8faQngZ88zqtj-LlS8VhTp_g9h7A4wpxdmjLc2WFzS5aVaYftEFOsqnJ8aFc0706kwiLU_-lwQWrbzOTKIsZO7-x3MaSkfORTy2184BvWj44uGYqT7sslg4nwG9jVX7zFEHmPktdI9IGghk2bC6x3OHnxUuaTCHdT0Te-kb7lkgZMWZsywBByjfqh6OLaCMcu5bQkPyC3624kCkbFZgdZIfX7HPSdlIUc8M6BPx6Cw6ubScXpIIAABBbJxvns7wkMzug372zc0FDIvNCzmEMICDAMDWVZo9cO_V5DWtj4xDvDmcPeRThPR4QsBCQPVGS2SYhBBBUen1uVAxFLlcJ7kDCVroDJxZdtSP5icODSRnnehQsvXDvwMzML85mpGpN0WTea0Oa_KkFLvB_MUR_58G9VQr0uaVVNwePhvsnDFqLw8WQZ8irFF96FphzjaPGgq2H3Uwr1yBI1lLf3dyyyBBalVZZPrCjg0w-3Wc39XhhDXwaTJd4dFUoom9469393GlQ7ywGzIkqR3Iz7TQhm0Vjyu3wcsTdIQ6NlKEa-qptx3HvFr8NVEhgWbFsbhw2KyljW6D6s-vi7JCJN5dNevXteRimIdaBjWwReEHzJlyI2Ne0OgYya3b6bvUkRHVNxajscomKt4x_Xr5QrJqpZSQEB-EyuCVrD56DKhEbOAsTw.3rNblrdDFPO9rIZg6wSBZg
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

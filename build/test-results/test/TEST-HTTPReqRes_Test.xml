@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HTTPReqRes_Test" tests="17" skipped="0" failures="0" errors="0" timestamp="2025-04-05T14:14:57" hostname="LECHTHALER" time="0.062">
+  <properties/>
+  <testcase name="test_addUrlParam()" classname="HTTPReqRes_Test" time="0.002"/>
+  <testcase name="test_getUrlHeader()" classname="HTTPReqRes_Test" time="0.001"/>
+  <testcase name="test_build_no_body()" classname="HTTPReqRes_Test" time="0.012"/>
+  <testcase name="test_getHeadParam()" classname="HTTPReqRes_Test" time="0.0"/>
+  <testcase name="test_get_url_param_no_urlencode()" classname="HTTPReqRes_Test" time="0.0"/>
+  <testcase name="test_removeUrlParam()" classname="HTTPReqRes_Test" time="0.003"/>
+  <testcase name="test_edit_body_regex()" classname="HTTPReqRes_Test" time="0.001"/>
+  <testcase name="test_editUrlHeaders()" classname="HTTPReqRes_Test" time="0.005"/>
+  <testcase name="test_editHeadParam()" classname="HTTPReqRes_Test" time="0.001"/>
+  <testcase name="test_build_no_body_with_content_len()" classname="HTTPReqRes_Test" time="0.002"/>
+  <testcase name="test_editUrlParam()" classname="HTTPReqRes_Test" time="0.019"/>
+  <testcase name="test_addHeadParameter()" classname="HTTPReqRes_Test" time="0.001"/>
+  <testcase name="test_removeHeadParameter()" classname="HTTPReqRes_Test" time="0.001"/>
+  <testcase name="test_getUrlParam()" classname="HTTPReqRes_Test" time="0.001"/>
+  <testcase name="test_url_update_header_0()" classname="HTTPReqRes_Test" time="0.001"/>
+  <testcase name="test_add_body()" classname="HTTPReqRes_Test" time="0.001"/>
+  <testcase name="test_build()" classname="HTTPReqRes_Test" time="0.001"/>
+  <system-out><![CDATA[La porta è settata a --> -1
+La porta è settata a --> -1
+La porta è settata a --> -1
+La porta è settata a --> -1
+La porta è settata a --> -1
+La porta è settata a --> -1
+La porta è settata a --> -1
+La porta è settata a --> 8080
+La porta è settata a --> 8080
+La porta è settata a --> 8080
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

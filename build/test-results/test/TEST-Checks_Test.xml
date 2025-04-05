@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Checks_Test" tests="26" skipped="0" failures="0" errors="0" timestamp="2025-04-05T14:14:56" hostname="LECHTHALER" time="0.496">
+  <properties/>
+  <testcase name="check" classname="Checks_Test" time="0.1"/>
+  <testcase name="check" classname="Checks_Test" time="0.005"/>
+  <testcase name="check" classname="Checks_Test" time="0.002"/>
+  <testcase name="check" classname="Checks_Test" time="0.002"/>
+  <testcase name="check" classname="Checks_Test" time="0.001"/>
+  <testcase name="check" classname="Checks_Test" time="0.003"/>
+  <testcase name="check" classname="Checks_Test" time="0.001"/>
+  <testcase name="check" classname="Checks_Test" time="0.001"/>
+  <testcase name="check" classname="Checks_Test" time="0.001"/>
+  <testcase name="test_check_json_schema_validation_wrong_schema()" classname="Checks_Test" time="0.264"/>
+  <testcase name="check" classname="Checks_Test" time="0.002"/>
+  <testcase name="check" classname="Checks_Test" time="0.002"/>
+  <testcase name="check" classname="Checks_Test" time="0.001"/>
+  <testcase name="test_print_extended()" classname="Checks_Test" time="0.038"/>
+  <testcase name="check" classname="Checks_Test" time="0.002"/>
+  <testcase name="check" classname="Checks_Test" time="0.001"/>
+  <testcase name="check" classname="Checks_Test" time="0.002"/>
+  <testcase name="check" classname="Checks_Test" time="0.002"/>
+  <testcase name="check" classname="Checks_Test" time="0.003"/>
+  <testcase name="check" classname="Checks_Test" time="0.002"/>
+  <testcase name="test_check_json_schema_validation_wrong()" classname="Checks_Test" time="0.032"/>
+  <testcase name="test_check_json_schema_validation_ok()" classname="Checks_Test" time="0.002"/>
+  <testcase name="check" classname="Checks_Test" time="0.001"/>
+  <testcase name="check" classname="Checks_Test" time="0.001"/>
+  <testcase name="check" classname="Checks_Test" time="0.001"/>
+  <testcase name="check" classname="Checks_Test" time="0.001"/>
+  <system-out><![CDATA[Check:
+	What: $.pageInfo.imaninteger
+	Is it a param check? false
+	regex: 
+	Where: JWT_HEADER
+	Op: JSON_SCHEMA_COMPLIANT
+	Op val: wrongschema
+	Value list: []
+	Use variable: false
+	Url decode: true
+
+]]></system-out>
+  <system-err><![CDATA[Regex punto 2 --> 
+
+SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+Regex punto 2 --> 
+
+]]></system-err>
+</testsuite>

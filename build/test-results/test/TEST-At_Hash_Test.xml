@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="At_Hash_Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-04-05T14:14:56" hostname="LECHTHALER" time="0.114">
+  <properties/>
+  <testcase name="test_At_Hash()" classname="At_Hash_Test" time="0.114"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

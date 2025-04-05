@@ -1,0 +1,15 @@
+<zapaddon>
+    <name>MIG-T</name>
+    <version>0.0.1</version>
+    <status>beta</status>
+    <description>Security testing tool</description>
+    <author>Security&amp;Trust FBK</author>
+    <extensions>
+        <extension>org.zaproxy.addon.migt.ZAPextender</extension>
+    </extensions>
+    <files>
+        <file>templates/config.json</file>
+        <file>templates/msg_def.json</file>
+    </files>
+    <not-before-version>2.16.0</not-before-version>
+</zapaddon>
